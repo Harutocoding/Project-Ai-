@@ -1,0 +1,25 @@
+.heading
+{
+    margin: 25px;
+    font-size:medium;
+    box-shadow: 3px 3px 30px yellow;
+    padding: 2px;
+}
+.note
+{
+    font-size: small;
+    color: aquamarine;
+}
+h4
+{
+    margin: 25px;
+    font-size: medium;
+    box-sizing: 5px 5px 35px maroon;
+}
+canvas
+{
+    border:3px solid palegoldenrod;
+    margin: 30px;
+    padding: 3px;
+    box-shadow: 4px 4px 40;
+}
